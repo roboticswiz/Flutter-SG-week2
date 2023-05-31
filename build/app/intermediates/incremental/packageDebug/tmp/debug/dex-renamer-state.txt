@@ -1,0 +1,4 @@
+#Wed May 31 14:24:38 GST 2023
+base.0=C\:\\Users\\vaibh\\Documents\\mi_card_flutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
